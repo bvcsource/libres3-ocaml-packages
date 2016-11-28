@@ -1,0 +1,6 @@
+[submodule "cmdtui"]
+	path = cmdtui
+	url = https://github.com/enospc/cmdtui
+[submodule "ocaml-anycache"]
+	path = ocaml-anycache
+	url = https://github.com/enospc/ocaml-anycache
